@@ -1,4 +1,3 @@
-# whitepaper
-Dono Whitepaper
+# whitepaper ![Build Status](https://travis-ci.org/dono-app/whitepaper.svg?branch=master)
 
-![Build Status](https://travis-ci.org/dono-app/whitepaper.svg?branch=master)
+Dono Whitepaper
